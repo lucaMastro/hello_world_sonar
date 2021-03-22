@@ -1,0 +1,7 @@
+organization=lucamastro
+projectKey=lucaMastro_hello_world_sonar
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18488
+dashboardUrl=https://sonarcloud.io/dashboard?id=lucaMastro_hello_world_sonar
+ceTaskId=AXhZ4phMfbI2kwyx4Ryo
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXhZ4phMfbI2kwyx4Ryo
